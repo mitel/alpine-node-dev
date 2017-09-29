@@ -1,5 +1,5 @@
 # npm & yarn included
-FROM mhart/alpine-node:8.4.0
+FROM mhart/alpine-node:8.6.0
 
 # If you have native dependencies, you'll need extra tools
 # As of Alpine Linux 3.3 there exists a new --no-cache option for apk. 
